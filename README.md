@@ -10,10 +10,7 @@
 ## Brief description
 
 - This is Airbnb Clone Website built with MERN stack.
-- Project link (GitHub): [mern-airbnb-clone](https://github.com/phamgiaphuc/mern-airbnb-clone)
-- Project's author: Pham Gia Phuc - Acus
-- Personal profile: [MyProfile](https://github.com/phamgiaphuc)
-
+  
 ## Language and Tools
 
 - Backend:
